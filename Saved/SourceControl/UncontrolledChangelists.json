@@ -34,7 +34,9 @@
 				"C:/Users/Sam/Documents/Unreal Projects/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/QuickDraw/Content/Blueprints/GM_Duel.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
-				"C:/Users/Sam/Documents/Unreal Projects/QuickDraw/Content/Blueprints/BP_Exclamation.uasset"
+				"C:/Users/Sam/Documents/Unreal Projects/QuickDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"C:/Users/Sam/Documents/Unreal Projects/QuickDraw/Content/Input/Actions/IA_Attack.uasset",
+				"C:/Users/Sam/Documents/Unreal Projects/QuickDraw/Content/Input/IMC_Duel.uasset"
 			]
 		}
 	]
